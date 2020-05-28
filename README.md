@@ -1,4 +1,4 @@
-# authorization-lambda-at-edge-python using dynamodb
+# authorization-lambda-at-edge python using dynamodb
 
 Code demonstrates authorization with Lambda@Edge along with Cloudfront and S3 static web pages 
 
